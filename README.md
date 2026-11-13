@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=scrape-sitemap-python">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=scrape-sitemap-python">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -90,7 +90,7 @@ Large sites rate-limit sitemap downloads like any other request. With `FUSION_US
 
 Feed the URL list to a scraper: [python-web-scraping](https://github.com/FusionProxies/python-web-scraping) for a few hundred pages, [python-async-scraping](https://github.com/FusionProxies/python-async-scraping) or [scrapy-proxy-middleware](https://github.com/FusionProxies/scrapy-proxy-middleware) for many thousands.
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=scrape-sitemap-python) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=scrape-sitemap-python).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=scrape-sitemap-python) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=scrape-sitemap-python).
 
 ## License
 
